@@ -17,8 +17,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Joti07)   -->
 <h1 align="center">Hi 👋, I'm Joti</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh8s4drpvhzatodmW3ew5XDTnMxrF7ejSDYTpEwgoYpTaxkDvE0PLh96tYlxwlH-x1mA&usqp=CAU)
+<!-- <h3 align="center">A passionate programmer from Bangladesh</h3> -->
+![A passionate programmer from Bangladesh](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh8s4drpvhzatodmW3ew5XDTnMxrF7ejSDYTpEwgoYpTaxkDvE0PLh96tYlxwlH-x1mA&usqp=CAU)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joti07&label=Profile%20views&color=0e75b6&style=flat" alt="joti07" /> </p>
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **tanjilajoti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QUyQYe0UdoZhBmsSHRn_ucMJZP96BYTw/view](https://drive.google.com/file/d/1QUyQYe0UdoZhBmsSHRn_ucMJZP96BYTw/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QUyQYe0UdoZhBmsSHRn_ucMJZP96BYTw/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
