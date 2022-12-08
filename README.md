@@ -22,9 +22,9 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh8s4drpvhzatodmW3ew5XDTnMxrF7ejSDYTpEwgoYpTaxkDvE0PLh96tYlxwlH-x1mA&usqp=CAU)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joti07&label=Profile%20views&color=0e75b6&style=flat" alt="joti07" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joti07&label=Profile%20views&color=0e75b6&style=flat" alt="joti07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joti07" alt="joti07" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joti07" alt="joti07" /></a> </p>
 
 - 📫 How to reach me **tanjilajoti@gmail.com**
 
