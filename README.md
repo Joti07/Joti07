@@ -27,13 +27,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joti07" alt="joti07" /></a> </p>
 
-- 📫 How to reach me **tanjilajoti@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QUyQYe0UdoZhBmsSHRn_ucMJZP96BYTw/view)
-
 - 🌱 I’m currently learning **MERN Stack development.**
 
 - 👯 I’m looking to collaborate on **Github.**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QUyQYe0UdoZhBmsSHRn_ucMJZP96BYTw/view)
+
+- 📫 How to reach me **tanjilajoti@gmail.com**
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
