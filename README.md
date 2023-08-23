@@ -31,7 +31,7 @@
 
 - 👯 I’m looking to collaborate on **Github.**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QUyQYe0UdoZhBmsSHRn_ucMJZP96BYTw/view)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1QUyQYe0UdoZhBmsSHRn_ucMJZP96BYTw/view](https://drive.google.com/file/d/1BVwkoovoDrvsum9a6iyLDDYmGtG9bnW8/view?usp=sharing))
 
 - 📫 How to reach me **tanjilajoti@gmail.com**
 
