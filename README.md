@@ -27,7 +27,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joti07" alt="joti07" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack development.**
+- 🌱 I’m currently learning **Spring Framework.**
 
 - 👯 I’m looking to collaborate on **Github.**
 
